@@ -1,0 +1,25 @@
+{
+  "name": "sass-respond-to",
+  "version": "0.0.1",
+  "description": "A sass mixin to write media queries with ease",
+  "main": "_mixins.sass",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DaxChen/sass-respond-to.git"
+  },
+  "keywords": [
+    "sass",
+    "mixin",
+    "media query",
+    "respond-to"
+  ],
+  "author": "DaxChen <dd@daxcheb.com> (https://github.com/DaxChen)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DaxChen/sass-respond-to/issues"
+  },
+  "homepage": "https://github.com/DaxChen/sass-respond-to#readme"
+}
